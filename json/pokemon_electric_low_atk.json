@@ -1,0 +1,306 @@
+[
+    {
+        "_id": {
+            "$oid": "6417ca4dd1be0a509b0f780e"
+        },
+        "id": 81,
+        "name": {
+            "english": "Magnemite",
+            "japanese": "\u30b3\u30a4\u30eb",
+            "chinese": "\u5c0f\u78c1\u602a",
+            "french": "Magn\u00e9ti"
+        },
+        "type": [
+            "Electric",
+            "Steel"
+        ],
+        "base": {
+            "HP": 25,
+            "Attack": 35,
+            "Defense": 70,
+            "Sp. Attack": 95,
+            "Sp. Defense": 55,
+            "Speed": 45
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6417ca4dd1be0a509b0f7821"
+        },
+        "id": 100,
+        "name": {
+            "english": "Voltorb",
+            "japanese": "\u30d3\u30ea\u30ea\u30c0\u30de",
+            "chinese": "\u9739\u96f3\u7535\u7403",
+            "french": "Voltorbe"
+        },
+        "type": [
+            "Electric"
+        ],
+        "base": {
+            "HP": 40,
+            "Attack": 30,
+            "Defense": 50,
+            "Sp. Attack": 55,
+            "Sp. Defense": 55,
+            "Speed": 100
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6417ca4dd1be0a509b0f7822"
+        },
+        "id": 101,
+        "name": {
+            "english": "Electrode",
+            "japanese": "\u30de\u30eb\u30de\u30a4\u30f3",
+            "chinese": "\u987d\u76ae\u96f7\u5f39",
+            "french": "\u00c9lectrode"
+        },
+        "type": [
+            "Electric"
+        ],
+        "base": {
+            "HP": 60,
+            "Attack": 50,
+            "Defense": 70,
+            "Sp. Attack": 80,
+            "Sp. Defense": 80,
+            "Speed": 150
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6417ca4dd1be0a509b0f7867"
+        },
+        "id": 170,
+        "name": {
+            "english": "Chinchou",
+            "japanese": "\u30c1\u30e7\u30f3\u30c1\u30fc",
+            "chinese": "\u706f\u7b3c\u9c7c",
+            "french": "Loupio"
+        },
+        "type": [
+            "Water",
+            "Electric"
+        ],
+        "base": {
+            "HP": 75,
+            "Attack": 38,
+            "Defense": 38,
+            "Sp. Attack": 56,
+            "Sp. Defense": 56,
+            "Speed": 67
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6417ca4dd1be0a509b0f7869"
+        },
+        "id": 172,
+        "name": {
+            "english": "Pichu",
+            "japanese": "\u30d4\u30c1\u30e5\u30fc",
+            "chinese": "\u76ae\u4e18",
+            "french": "Pichu"
+        },
+        "type": [
+            "Electric"
+        ],
+        "base": {
+            "HP": 20,
+            "Attack": 40,
+            "Defense": 15,
+            "Sp. Attack": 35,
+            "Sp. Defense": 35,
+            "Speed": 60
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6417ca4dd1be0a509b0f7870"
+        },
+        "id": 179,
+        "name": {
+            "english": "Mareep",
+            "japanese": "\u30e1\u30ea\u30fc\u30d7",
+            "chinese": "\u54a9\u5229\u7f8a",
+            "french": "Wattouat"
+        },
+        "type": [
+            "Electric"
+        ],
+        "base": {
+            "HP": 55,
+            "Attack": 40,
+            "Defense": 40,
+            "Sp. Attack": 65,
+            "Sp. Defense": 45,
+            "Speed": 35
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6417ca4dd1be0a509b0f78f2"
+        },
+        "id": 309,
+        "name": {
+            "english": "Electrike",
+            "japanese": "\u30e9\u30af\u30e9\u30a4",
+            "chinese": "\u843d\u96f7\u517d",
+            "french": "Dynavolt"
+        },
+        "type": [
+            "Electric"
+        ],
+        "base": {
+            "HP": 40,
+            "Attack": 45,
+            "Defense": 40,
+            "Sp. Attack": 65,
+            "Sp. Defense": 40,
+            "Speed": 65
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6417ca4dd1be0a509b0f78f4"
+        },
+        "id": 311,
+        "name": {
+            "english": "Plusle",
+            "japanese": "\u30d7\u30e9\u30b9\u30eb",
+            "chinese": "\u6b63\u7535\u62cd\u62cd",
+            "french": "Posipi"
+        },
+        "type": [
+            "Electric"
+        ],
+        "base": {
+            "HP": 60,
+            "Attack": 50,
+            "Defense": 40,
+            "Sp. Attack": 85,
+            "Sp. Defense": 75,
+            "Speed": 95
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6417ca4dd1be0a509b0f78f5"
+        },
+        "id": 312,
+        "name": {
+            "english": "Minun",
+            "japanese": "\u30de\u30a4\u30ca\u30f3",
+            "chinese": "\u8d1f\u7535\u62cd\u62cd",
+            "french": "N\u00e9gapi"
+        },
+        "type": [
+            "Electric"
+        ],
+        "base": {
+            "HP": 60,
+            "Attack": 40,
+            "Defense": 50,
+            "Sp. Attack": 75,
+            "Sp. Defense": 85,
+            "Speed": 95
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6417ca4dd1be0a509b0f795e"
+        },
+        "id": 417,
+        "name": {
+            "english": "Pachirisu",
+            "japanese": "\u30d1\u30c1\u30ea\u30b9",
+            "chinese": "\u5e15\u5947\u5229\u5179",
+            "french": "Pachirisu"
+        },
+        "type": [
+            "Electric"
+        ],
+        "base": {
+            "HP": 60,
+            "Attack": 45,
+            "Defense": 70,
+            "Sp. Attack": 45,
+            "Sp. Defense": 90,
+            "Speed": 95
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6417ca4dd1be0a509b0f799c"
+        },
+        "id": 479,
+        "name": {
+            "english": "Rotom",
+            "japanese": "\u30ed\u30c8\u30e0",
+            "chinese": "\u6d1b\u6258\u59c6",
+            "french": "Motisma"
+        },
+        "type": [
+            "Electric",
+            "Ghost"
+        ],
+        "base": {
+            "HP": 50,
+            "Attack": 50,
+            "Defense": 77,
+            "Sp. Attack": 95,
+            "Sp. Defense": 77,
+            "Speed": 91
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6417ca4dd1be0a509b0f7a10"
+        },
+        "id": 595,
+        "name": {
+            "english": "Joltik",
+            "japanese": "\u30d0\u30c1\u30e5\u30eb",
+            "chinese": "\u7535\u7535\u866b",
+            "french": "Statitik"
+        },
+        "type": [
+            "Bug",
+            "Electric"
+        ],
+        "base": {
+            "HP": 50,
+            "Attack": 47,
+            "Defense": 50,
+            "Sp. Attack": 57,
+            "Sp. Defense": 50,
+            "Speed": 65
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6417ca4dd1be0a509b0f7a73"
+        },
+        "id": 694,
+        "name": {
+            "english": "Helioptile",
+            "japanese": "\u30a8\u30ea\u30ad\u30c6\u30eb",
+            "chinese": "\u4f1e\u7535\u8725",
+            "french": "Galvaran"
+        },
+        "type": [
+            "Electric",
+            "Normal"
+        ],
+        "base": {
+            "HP": 44,
+            "Attack": 38,
+            "Defense": 33,
+            "Sp. Attack": 61,
+            "Sp. Defense": 43,
+            "Speed": 70
+        }
+    }
+]
